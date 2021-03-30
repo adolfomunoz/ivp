@@ -1,3 +1,8 @@
+# Compilation folders
+external
+build
+bin
+
 # Prerequisites
 *.d
 
